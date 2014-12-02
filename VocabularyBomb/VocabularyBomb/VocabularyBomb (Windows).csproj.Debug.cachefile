@@ -1,0 +1,319 @@
+Content\Plateforme\Sprites\MonsterA\Idle.xnb
+Content\Plateforme\Sprites\MonsterA\Run.xnb
+Content\Plateforme\Sprites\MonsterB\Idle.xnb
+Content\Plateforme\Sprites\MonsterB\Run.xnb
+Content\Plateforme\Sprites\MonsterC\Idle.xnb
+Content\Plateforme\Sprites\MonsterC\Run.xnb
+Content\Plateforme\Sprites\MonsterD\Idle.xnb
+Content\Plateforme\Sprites\MonsterD\Run.xnb
+Content\Plateforme\Sprites\Player\Celebrate.xnb
+Content\Plateforme\Sprites\Player\Die.xnb
+Content\Plateforme\Sprites\Player\Idle.xnb
+Content\Plateforme\Sprites\Player\Jump.xnb
+Content\Plateforme\Sprites\Player\Run.xnb
+Content\Plateforme\Overlays\you_died.xnb
+Content\Plateforme\Overlays\you_lose.xnb
+Content\Plateforme\Overlays\you_win.xnb
+Content\Plateforme\Sprites\MonsterA\Die.xnb
+Content\Plateforme\Sprites\MonsterB\Die.xnb
+Content\Plateforme\Sprites\MonsterC\Die.xnb
+Content\Plateforme\Sprites\MonsterD\Die.xnb
+Content\Plateforme\Tiles\Exit.xnb
+Content\Plateforme\Health\healthGauge.xnb
+Content\Plateforme\Health\lifeBar.xnb
+Content\Plateforme\Pause\Paused.xnb
+Content\Plateforme\Health\lifeBar2.xnb
+Content\Plateforme\Sprites\Player\Attack.xnb
+Content\Plateforme\Tiles\BlockFloat0.xnb
+Content\Plateforme\Gui\aide.xnb
+Content\Plateforme\Gui\background.xnb
+Content\Plateforme\Gui\jouer.xnb
+Content\Plateforme\Gui\Main.xnb
+Content\Plateforme\Gui\Quitter.xnb
+Content\Plateforme\Gui\start.xnb
+Content\Plateforme\Gui\titre.xnb
+Content\Plateforme\Gui\titre2.xnb
+Content\Plateforme\Tiles\BlockE0.xnb
+Content\Plateforme\Tiles\BlockE1.xnb
+Content\Plateforme\Tiles\BlockE2.xnb
+Content\Plateforme\Tiles\BlockE3.xnb
+Content\Plateforme\Tiles\BlockE4.xnb
+Content\Plateforme\Tiles\BlockE5.xnb
+Content\Plateforme\Tiles\BlockE6.xnb
+Content\Plateforme\Tiles\BlockE7.xnb
+Content\Plateforme\Tiles\BlockE8.xnb
+Content\Plateforme\Tiles\BlockPlat.xnb
+Content\Plateforme\Tiles\BlockPassable.xnb
+Content\Plateforme\Overlays\game_over.xnb
+Content\Plateforme\Gui\background_loading.xnb
+Content\Plateforme\Sprites\Gem\steam A.xnb
+Content\Plateforme\Sprites\Gem\steam B.xnb
+Content\Plateforme\Sprites\Gem\steam C.xnb
+Content\Plateforme\Sprites\Gem\steam D.xnb
+Content\Plateforme\Sprites\Gem\steam E.xnb
+Content\Plateforme\Sprites\Gem\steam F.xnb
+Content\Plateforme\Sprites\Gem\steam G.xnb
+Content\Plateforme\Sprites\Gem\steam H.xnb
+Content\Plateforme\Sprites\Gem\steam I.xnb
+Content\Plateforme\Sprites\Gem\steam J.xnb
+Content\Plateforme\Sprites\Gem\steam K.xnb
+Content\Plateforme\Sprites\Gem\steam L.xnb
+Content\Plateforme\Sprites\Gem\steam M.xnb
+Content\Plateforme\Sprites\Gem\steam N.xnb
+Content\Plateforme\Sprites\Gem\steam O.xnb
+Content\Plateforme\Sprites\Gem\steam P.xnb
+Content\Plateforme\Sprites\Gem\steam Q.xnb
+Content\Plateforme\Sprites\Gem\steam R.xnb
+Content\Plateforme\Sprites\Gem\steam S.xnb
+Content\Plateforme\Sprites\Gem\steam T.xnb
+Content\Plateforme\Sprites\Gem\steam U.xnb
+Content\Plateforme\Sprites\Gem\steam V.xnb
+Content\Plateforme\Sprites\Gem\steam W.xnb
+Content\Plateforme\Sprites\Gem\steam X.xnb
+Content\Plateforme\Sprites\Gem\steam Y.xnb
+Content\Plateforme\Sprites\Gem\steam Z.xnb
+Content\Plateforme\Inventory\Inventory_container_Colors.xnb
+Content\Plateforme\Sprites\Gem\Colors\Beige.xnb
+Content\Plateforme\Sprites\Gem\Colors\Black.xnb
+Content\Plateforme\Sprites\Gem\Colors\Blue.xnb
+Content\Plateforme\Sprites\Gem\Colors\Bronze.xnb
+Content\Plateforme\Sprites\Gem\Colors\Brown.xnb
+Content\Plateforme\Sprites\Gem\Colors\Burgundy.xnb
+Content\Plateforme\Sprites\Gem\Colors\Cyan.xnb
+Content\Plateforme\Sprites\Gem\Colors\Emerald.xnb
+Content\Plateforme\Sprites\Gem\Colors\Gold.xnb
+Content\Plateforme\Sprites\Gem\Colors\Gray.xnb
+Content\Plateforme\Sprites\Gem\Colors\Green.xnb
+Content\Plateforme\Sprites\Gem\Colors\Khaki.xnb
+Content\Plateforme\Sprites\Gem\Colors\Magenta.xnb
+Content\Plateforme\Sprites\Gem\Colors\Mauve.xnb
+Content\Plateforme\Sprites\Gem\Colors\Navy.xnb
+Content\Plateforme\Sprites\Gem\Colors\Orange.xnb
+Content\Plateforme\Sprites\Gem\Colors\Pink.xnb
+Content\Plateforme\Sprites\Gem\Colors\Red.xnb
+Content\Plateforme\Sprites\Gem\Colors\Ruby.xnb
+Content\Plateforme\Sprites\Gem\Colors\Salmon.xnb
+Content\Plateforme\Sprites\Gem\Colors\Silver.xnb
+Content\Plateforme\Sprites\Gem\Colors\Turquoise.xnb
+Content\Plateforme\Sprites\Gem\Colors\Violet.xnb
+Content\Plateforme\Sprites\Gem\Colors\White.xnb
+Content\Plateforme\Sprites\Gem\Colors\Yellow.xnb
+Content\Plateforme\Tutorials\level0.xnb
+Content\Plateforme\Tutorials\level1.xnb
+Content\Plateforme\Tutorials\level2.xnb
+Content\Plateforme\Tutorials\level3.xnb
+Content\Leitner\Images\Beige.xnb
+Content\Leitner\Images\bg.xnb
+Content\Leitner\Images\Black.xnb
+Content\Leitner\Images\blanc.xnb
+Content\Leitner\Images\Blue.xnb
+Content\Leitner\Images\Bronze.xnb
+Content\Leitner\Images\Brown.xnb
+Content\Leitner\Images\Burgundy.xnb
+Content\Leitner\Images\Cyan.xnb
+Content\Leitner\Images\Emerald.xnb
+Content\Leitner\Images\Gold.xnb
+Content\Leitner\Images\Gray.xnb
+Content\Leitner\Images\Green.xnb
+Content\Leitner\Images\Khaki.xnb
+Content\Leitner\Images\Magenta.xnb
+Content\Leitner\Images\Mauve.xnb
+Content\Leitner\Images\Navy.xnb
+Content\Leitner\Images\Orange.xnb
+Content\Leitner\Images\Pink.xnb
+Content\Leitner\Images\Red.xnb
+Content\Leitner\Images\Ruby.xnb
+Content\Leitner\Images\Salmon.xnb
+Content\Leitner\Images\Silver.xnb
+Content\Leitner\Images\Turquoise.xnb
+Content\Leitner\Images\Violet.xnb
+Content\Leitner\Images\White.xnb
+Content\Leitner\Images\Yellow.xnb
+Content\Plateforme\Inventory\Inventory_container_Vocabulary.xnb
+Content\Plateforme\Tiles\Exit close.xnb
+Content\Plateforme\Tiles\BlockA.xnb
+Content\Plateforme\Tiles\Exit open.xnb
+Content\Plateforme\Tiles\Platform.xnb
+Content\Plateforme\Backgrounds\level1\Layer1_0.xnb
+Content\Plateforme\Backgrounds\level1\Layer1_1.xnb
+Content\Plateforme\Backgrounds\level1\Layer1_2.xnb
+Content\Leitner\Mouse\Main.xnb
+Content\Plateforme\Backgrounds\level4\Layer1_0.xnb
+Content\Plateforme\Backgrounds\level4\Layer1_1.xnb
+Content\Plateforme\Backgrounds\level4\Layer1_2.xnb
+Content\Plateforme\Backgrounds\level2\Layer1_0.xnb
+Content\Plateforme\Backgrounds\level2\Layer1_1.xnb
+Content\Plateforme\Backgrounds\level2\Layer1_2.xnb
+Content\Plateforme\Backgrounds\level1\Layer0_0.xnb
+Content\Plateforme\Backgrounds\level1\Layer0_1.xnb
+Content\Plateforme\Backgrounds\level1\Layer0_2.xnb
+Content\Plateforme\Backgrounds\level1\Layer2_0.xnb
+Content\Plateforme\Backgrounds\level1\Layer2_1.xnb
+Content\Plateforme\Backgrounds\level1\Layer2_2.xnb
+Content\Plateforme\Backgrounds\level4\Layer0_0.xnb
+Content\Plateforme\Backgrounds\level4\Layer0_1.xnb
+Content\Plateforme\Backgrounds\level4\Layer0_2.xnb
+Content\Plateforme\Backgrounds\level4\Layer2_0.xnb
+Content\Plateforme\Backgrounds\level4\Layer2_1.xnb
+Content\Plateforme\Backgrounds\level4\Layer2_2.xnb
+Content\Plateforme\Backgrounds\level2\Layer0_0.xnb
+Content\Plateforme\Backgrounds\level2\Layer0_1.xnb
+Content\Plateforme\Backgrounds\level2\Layer0_2.xnb
+Content\Plateforme\Backgrounds\level2\Layer2_0.xnb
+Content\Plateforme\Backgrounds\level2\Layer2_1.xnb
+Content\Plateforme\Backgrounds\level2\Layer2_2.xnb
+Content\Plateforme\Backgrounds\level3\Layer0_0.xnb
+Content\Plateforme\Backgrounds\level3\Layer0_1.xnb
+Content\Plateforme\Backgrounds\level3\Layer0_2.xnb
+Content\Plateforme\Backgrounds\level3\Layer2_0.xnb
+Content\Plateforme\Backgrounds\level3\Layer2_1.xnb
+Content\Plateforme\Backgrounds\level3\Layer2_2.xnb
+Content\Plateforme\Backgrounds\level3\Layer1_0.xnb
+Content\Plateforme\Backgrounds\level3\Layer1_1.xnb
+Content\Plateforme\Backgrounds\level3\Layer1_2.xnb
+Content\Leitner\Button\Beige.xnb
+Content\Leitner\Button\Black.xnb
+Content\Leitner\Button\Blue.xnb
+Content\Leitner\Button\Bronze.xnb
+Content\Leitner\Button\Brown.xnb
+Content\Leitner\Button\Burgundy.xnb
+Content\Leitner\Button\Cyan.xnb
+Content\Leitner\Button\Emerald.xnb
+Content\Leitner\Button\Gold.xnb
+Content\Leitner\Button\Gray.xnb
+Content\Leitner\Button\Green.xnb
+Content\Leitner\Button\Khaki.xnb
+Content\Leitner\Button\Magenta.xnb
+Content\Leitner\Button\Mauve.xnb
+Content\Leitner\Button\Navy.xnb
+Content\Leitner\Button\Orange.xnb
+Content\Leitner\Button\Pink.xnb
+Content\Leitner\Button\Red.xnb
+Content\Leitner\Button\Ruby.xnb
+Content\Leitner\Button\Salmon.xnb
+Content\Leitner\Button\Silver.xnb
+Content\Leitner\Button\Turquoise.xnb
+Content\Leitner\Button\Violet.xnb
+Content\Leitner\Button\White.xnb
+Content\Leitner\Button\Yellow.xnb
+Content\Leitner\PressedButton\Beige.xnb
+Content\Leitner\PressedButton\Black.xnb
+Content\Leitner\PressedButton\Blue.xnb
+Content\Leitner\PressedButton\Bronze.xnb
+Content\Leitner\PressedButton\Brown.xnb
+Content\Leitner\PressedButton\Burgundy.xnb
+Content\Leitner\PressedButton\Cyan.xnb
+Content\Leitner\PressedButton\Emerald.xnb
+Content\Leitner\PressedButton\Gold.xnb
+Content\Leitner\PressedButton\Gray.xnb
+Content\Leitner\PressedButton\Green.xnb
+Content\Leitner\PressedButton\Khaki.xnb
+Content\Leitner\PressedButton\Magenta.xnb
+Content\Leitner\PressedButton\Mauve.xnb
+Content\Leitner\PressedButton\Navy.xnb
+Content\Leitner\PressedButton\Orange.xnb
+Content\Leitner\PressedButton\Pink.xnb
+Content\Leitner\PressedButton\Red.xnb
+Content\Leitner\PressedButton\Ruby.xnb
+Content\Leitner\PressedButton\Salmon.xnb
+Content\Leitner\PressedButton\Silver.xnb
+Content\Leitner\PressedButton\Turquoise.xnb
+Content\Leitner\PressedButton\Violet.xnb
+Content\Leitner\PressedButton\White.xnb
+Content\Leitner\PressedButton\Yellow.xnb
+Content\Leitner\Bomb\Bomb.xnb
+Content\Leitner\Bomb\Meche.xnb
+Content\Plateforme\Tiles\Coffre close.xnb
+Content\Plateforme\Tiles\Coffre open.xnb
+Content\Plateforme\Tiles\Bomb close.xnb
+Content\Plateforme\Tiles\Bomb open.xnb
+Content\Plateforme\Sprites\Gem\Etoile.xnb
+Content\Plateforme\Sprites\Gem\Etoile_2.xnb
+Content\Plateforme\Pause\Play.xnb
+Content\Plateforme\Pause\Quit.xnb
+Content\Plateforme\Help\Sauter.xnb
+Content\Plateforme\Help\Marcher.xnb
+Content\Plateforme\Help\Tuer.xnb
+Content\Plateforme\Help\Collectioner.xnb
+Content\Plateforme\Help\Main.xnb
+Content\Plateforme\Help\Main hidden.xnb
+Content\Plateforme\Help\Leitner.xnb
+Content\Plateforme\Help\BravoLeitner.xnb
+Content\Plateforme\Help\SortieFerme.xnb
+Content\Plateforme\Loading\Chargement3.xnb
+Content\Plateforme\Loading\Chargement0.xnb
+Content\Plateforme\Loading\Chargement1.xnb
+Content\Plateforme\Loading\Chargement2.xnb
+Content\Leitner\Effects\Boom_F0.xnb
+Content\Leitner\Effects\Boom_F1.xnb
+Content\Leitner\Effects\Boom_F10.xnb
+Content\Leitner\Effects\Boom_F2.xnb
+Content\Leitner\Effects\Boom_F3.xnb
+Content\Leitner\Effects\Boom_F4.xnb
+Content\Leitner\Effects\Boom_F5.xnb
+Content\Leitner\Effects\Boom_F6.xnb
+Content\Leitner\Effects\Boom_F7.xnb
+Content\Leitner\Effects\Boom_F8.xnb
+Content\Leitner\Effects\Boom_F9.xnb
+Content\Plateforme\Gui\background aide_1.xnb
+Content\Plateforme\Gui\background aide_2.xnb
+Content\Plateforme\Gui\retour.xnb
+Content\Plateforme\Gui\suivant.xnb
+Content\Plateforme\Help\EntrerOrdi.xnb
+Content\Leitner\Background.xnb
+Content\Leitner\ProgressBar\healthGauge.xnb
+Content\Leitner\ProgressBar\lifeBar.xnb
+Content\Leitner\ProgressBar\lifeBar2.xnb
+Content\Leitner\Bomb\Boom.xnb
+Content\Plateforme\Gui\intro.xnb
+Content\Plateforme\Gui\background aide_3.xnb
+Content\Plateforme\Inventory\Inventory_container_quests.xnb
+Content\Plateforme\Weather\Snow.xnb
+Content\Plateforme\Gui\credits_1.xnb
+Content\Plateforme\Gui\credits_2.xnb
+Content\Plateforme\Gui\credits_3.xnb
+Content\Fonts\Hud.xnb
+Content\Fonts\font.xnb
+Content\Fonts\RavieFont.xnb
+Content\Fonts\Hud_small.xnb
+Content\Fonts\Comique.xnb
+Content\Fonts\ComiqueBig.xnb
+Content\Fonts\ComicFont.xnb
+Content\Fonts\ProgressBarLabelFont.xnb
+Content\Fonts\QuartzFont.xnb
+Content\Sounds\Levels\Level2\LEVEL2_THEME.xnb
+Content\Sounds\Credits\Credits_THEME.xnb
+Content\Sounds\Gui\Vocabulary_Bomb_Main_THEME.xnb
+Content\Sounds\Levels\Level4\LEVEL4_THEME.xnb
+Content\Sounds\Levels\Level1\LEVEL1_THEME.xnb
+Content\Sounds\Levels\Level3\LEVEL3_THEME.xnb
+Content\Sounds\Player\BodyFall.xnb
+Content\Sounds\Gui\Buttonsound_16.xnb
+Content\Sounds\GameOver\game-over.xnb
+Content\Sounds\Triggers\doorClosed.xnb
+Content\Sounds\Triggers\doorOpen.xnb
+Content\Sounds\Triggers\gemCollected.xnb
+Content\Sounds\Triggers\healthImpact.xnb
+Content\Sounds\Triggers\wrongChoiceLeitner.xnb
+Content\Sounds\Player\PlayerTouched.xnb
+Content\Sounds\Triggers\InventoryFull.xnb
+Content\Sounds\Triggers\reachedExit.xnb
+Content\Sounds\Triggers\rightChoiceLeitner.xnb
+Content\Sounds\Player\PlayerFall.xnb
+Content\Sounds\Player\PlayerKilled.xnb
+Content\Sounds\Triggers\Boom.xnb
+Content\Sounds\Triggers\ennemyDead.xnb
+Content\Sounds\Levels\Level2\LEVEL2_THEME.wma
+Content\Sounds\Credits\Credits_THEME.wma
+Content\Sounds\Gui\Vocabulary_Bomb_Main_THEME.wma
+Content\Sounds\Levels\Level4\LEVEL4_THEME.wma
+Content\Sounds\Levels\Level1\LEVEL1_THEME.wma
+Content\Sounds\Levels\Level3\LEVEL3_THEME.wma
+Content\Plateforme\Levels_colors\0.txt
+Content\Plateforme\Levels_colors\1.txt
+Content\Plateforme\Levels_colors\2.txt
+Content\Plateforme\Levels_colors\3.txt
+Content\Plateforme\Levels_vocabulary\0.txt
+Content\Plateforme\Levels_vocabulary\1.txt
+Content\Plateforme\Levels_vocabulary\2.txt
+Content\Plateforme\Levels_vocabulary\3.txt

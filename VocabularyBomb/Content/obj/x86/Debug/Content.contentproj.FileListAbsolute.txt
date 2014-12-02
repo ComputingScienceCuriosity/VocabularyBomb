@@ -1,0 +1,26 @@
+E:\studio1\xna stuff\Platformer_4_0\Platformer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Macas\Desktop\Platformer_4_0\Platformer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\At Sams\Platformer_4_0\Platformer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\At Sams\Platformer_4_0\Platformer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Macas\Desktop\back up of uni 3\Platformer_4_0\Platformer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Macas\Desktop\back up of uni 3\Mcnair_Shaun_u1163562\Platformer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\IMAGINA M2 S1\Serious Games\Projet\Sources\Visual Studio Platformer Game\Mcnair_Shaun_u1163562\Platformer\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+C:\Users\Yasser\Desktop\Vocabulary Bomb\Vocabulary Bomb\Platformer\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+C:\Users\Yasser\Desktop\Vocabulary Bomb\Platformer\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+C:\Users\Yasser\Desktop\VOCABULARY BOMB VERSIONS\Vocabulary Bomb_EDITEDNAMES\VocabularyBomb\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+C:\Users\Yasser\Desktop\Vocabulary Bomb_EDIT\VocabularyBomb\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+C:\Users\Yasser\Desktop\VOCABULARY BOMB VERSIONS\Vocabulary Bomb_WITH_GUI\Vocabulary Bomb_EDIT\VocabularyBomb\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+C:\Users\Yasser\Desktop\VOCABULARY BOMB VERSIONS\Vocabulary Bomb_WITH_GUI_and_Monters\Vocabulary Bomb_WITH_GUI\Vocabulary Bomb_EDIT\VocabularyBomb\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+C:\Users\Yasser\Desktop\Vocabulary Bomb BETA VERSION\VocabularyBomb\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+C:\Users\Yasser\Desktop\Vocabulary Bomb BETA VERSION colors version\VocabularyBomb\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+H:\Vocabulary Bomb BETA VERSION colors&leitner\Vocabulary Bomb BETA VERSION colors version\VocabularyBomb\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+C:\Users\Yasser\Desktop\Vocabulary Bomb BETA3\VocabularyBomb\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+C:\Users\baym\Desktop\Vocabulary Bomb BETA4\Vocabulary Bomb BETA3\VocabularyBomb\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\baym\Desktop\Vocabulary Bomb BETA3\VocabularyBomb\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Vocabulary Bomb BETA3\VocabularyBomb\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+I:\Vocabulary Bomb BETA3\VocabularyBomb\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+I:\VBbeta4\VocabularyBomb\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+C:\Users\Amayas\Documents\DossierGame\VBbeta4\VocabularyBomb\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+H:\VBbeta4\VocabularyBomb\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+C:\Users\Yasser\Desktop\VBbeta4\VocabularyBomb\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+C:\Users\Yasser\Desktop\Vocabulary_Bomb_Extreme_Edition\VocabularyBomb\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
